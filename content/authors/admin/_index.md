@@ -1,11 +1,10 @@
 ---
 title: Nicholas Defranco
 role: Student
-bio: Software development, Puzzle solving
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software development
+  - Puzzle solving
 social:
   - icon: envelope
     icon_pack: fas
