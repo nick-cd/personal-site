@@ -7,7 +7,9 @@
 
 theme: minimal
 day_night: true
-font: ''
+# https://wowchemy.com/docs/getting-started/customization/#fonts
+font: 'Native' # "Use device fonts for maximum performance"
+# https://wowchemy.com/docs/getting-started/customization/#change-font-size
 font_size: L
 
 # SEO
@@ -99,6 +101,7 @@ reading_time: true
 section_pager: false
 docs_section_pager: true
 sharing: true
+# https://wowchemy.com/docs/getting-started/customization/#custom-footer
 copyright_license:
   enable: false
   allow_derivatives: false
