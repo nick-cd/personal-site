@@ -3,8 +3,15 @@ title: SCP
 subtitle: Old report from my data communications class explaining the SCP protocol
 date: 2021-03-24T18:39:08.793Z
 summary: ""
-draft: true
+draft: false
 featured: false
+authors:
+  - Nicholas
+  - Eugene Li
+  - Mohammad moein Hazari
+tags:
+  - theory
+categories: []
 external_link: https://nicholas-defranco.netlify.app/
 links: []
 image:
