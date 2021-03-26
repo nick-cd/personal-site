@@ -18,7 +18,7 @@ social:
 organizations: []
 education:
   courses: []
-email: ""
+email: "defrann8208@outlook.com"
 superuser: true
 highlight_name: false
 ---
