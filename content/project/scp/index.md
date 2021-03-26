@@ -61,8 +61,6 @@ one argument must be the remote server and the other must be the local host. Onc
 scp file user@host:directory
 ```
 
-{{< video library="true" src="scp.mp4" controls="yes" >}}
-
 ### Syntax remote to local
 
 ```bash
