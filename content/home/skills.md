@@ -25,6 +25,7 @@ feature:
 - icon: fa-linux
   icon_pack: fab
   name: Linux
+- name: SQL
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
