@@ -31,8 +31,8 @@ main_menu:
   align: l
   show_logo: true
   show_language: false
-  show_day_night: true
-  show_search: true
+  show_day_night: false
+  show_search: false
   highlight_active_link: true
 
 # Localization
@@ -117,7 +117,7 @@ map:
 marketing:
   google_analytics: ''
   google_tag_manager: ''
-  google_site_verification: ''
+  google_site_verification: 'QfDy3yx5VOqUlH_XJxUXKJdIeBpftDuCWfmyiZzk5aU'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
