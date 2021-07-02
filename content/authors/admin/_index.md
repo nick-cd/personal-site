@@ -15,6 +15,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/nicholas-defranco-793850201/
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UC_IKaTLmXjQscqLEojYvBzQ
 organizations: []
 education:
   courses: []

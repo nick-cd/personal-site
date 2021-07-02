@@ -16,16 +16,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: fa-rust
+- icon: rust
   icon_pack: fab
   name: Rust
-- icon: fa-git-alt
+- icon: git-alt
   icon_pack: fab
   name: Git
-- icon: fa-linux
+- icon: linux
   icon_pack: fab
   name: Linux
-- name: SQL
+- icon: html5
+  icon_pack: fab
+  name: HTML
+- icon: css3-alt
+  icon_pack: fab
+  name: CSS
+- icon: js
+  icon_pack: fab
+  name: JavaScript
+- icon: bootstrap
+  icon_pack: fab
+  name: Bootstrap
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
